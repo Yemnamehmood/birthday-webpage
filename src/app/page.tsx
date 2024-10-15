@@ -43,7 +43,7 @@ export default function BirthdayPage() {
       <div className="wishes-list">
         <h2>🎁 Birthday Wishes 🎁</h2>
         {wishes.length === 0 ? (
-          <p>No wishes yet. Be the first!</p>
+          <p>No wishes yet. Be the first!🥰</p>
         ) : (
           wishes.map((wish, index) => (
             <div key={index} className="wish">
