@@ -18,8 +18,8 @@ export default function BirthdayPage() {
 
   return (
     <div className="container">
-      <h1> It&apos;s  My Birthday Tomorrow! 🎉</h1>
-      <p>Leave a wish and make my day special!</p>
+      <h1> 🎉16 Oct, It&apos;s  My Birthday Tomorrow! 🎉</h1>
+      <p>Leave a wish and make my day special!✨</p>
 
       <form onSubmit={handleSubmit} className="wish-form">
         <input
